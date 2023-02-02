@@ -1,6 +1,6 @@
 # 예외처리
 # SyntaxError, TypeError, NameError, IndexError, ValueError, KeyError
-# 문법적으로는 뎨외가 없지만, 코드 실행 프로세스(단계) 발생하는 예외도 중요
+# 문법적으로는 예외가 없지만, 코드 실행 프로세스(단계) 발생하는 예외도 중요
 # 예외 반드시 처리, 로그는 반드시 남김, 예외는 던져짐, 예외 무시
 
 # SyntaxError
