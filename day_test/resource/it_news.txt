@@ -1,0 +1,6 @@
+Three ways networking services simplify network management
+Organizations rely on networks to power their work.
+But managing the myriad applications and data that a business depends on is not without its challenges.
+That’s where networking services come in. Think of networking services—like Azure Networking Services—as technology’s orchestra conductor.
+Instead of closely studying sheet music, understanding the skills of dozens of musicians, and setting the tempo during rehearsals and performances, networking services track all the data and applications a company is using on their chosen network and coordinate their traffic across cloud boundaries—even as most networks’ bandwidth and scale continue to increase, due to ever more complex rendering and compute requirements.
+Networking services can ease network management in nearly every industry. That’s important because highly functioning networks are adding tremendous value to organizations. Three technology benefits illustrate this exciting promise—and showcase how networking services support them. These benefits also address concerns that are top of mind for many organizations—provisioning the growing remote workforce, making use of the data they collect, and boosting network security.
